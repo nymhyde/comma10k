@@ -1,0 +1,4 @@
+tensorboard
+pytorch-lightning
+albumentations
+segmentation_models_pytorch
